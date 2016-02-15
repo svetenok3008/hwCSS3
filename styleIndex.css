@@ -75,11 +75,12 @@ button {
 		width: 40px;
 		height: 32px;
 }
-button.row {
-	width: 206px;
+.row {
+	width: 204px;
+	height: 32px;
 }
 button.equaly {
-	height: 64px;
+	height: 66px;
 }
 button.null {
 	width: 82px;
